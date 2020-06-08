@@ -10,5 +10,17 @@
             "info@openaq.org"
         ],
         "active": true
+    },
+    {
+        "sourceURL": "http://www.scottishairquality.scot/data/",
+        "url": "http://www.scottishairquality.scot/data/data-selector",
+        "adapter": "scotland",
+        "name": "Air Quality in Scotland",
+        "country": "GB",
+        "description": "These pages contain options for you to retrieve data relating to Air Quality in Scotland from the present day back to 1986. The database contains tables of measured concentration data and statistics from the air quality monitoring sites operated by Defra, the Scottish Government and Local Authorities.",
+        "contacts": [
+            "info@scottishairquality.co.uk"
+        ],
+        "active": true
     }
 ]
